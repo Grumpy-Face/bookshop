@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-
+#include<windows.h>
 #include<mysql.h>
 #include<iomanip>
 #include<conio.h>
